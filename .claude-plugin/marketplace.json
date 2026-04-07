@@ -1,0 +1,16 @@
+{
+  "name": "jehoshua02",
+  "owner": {
+    "name": "jehoshua02"
+  },
+  "plugins": [
+    {
+      "name": "claude-plugin-output-style-caveman",
+      "description": "Caveman speak output style for Claude Code",
+      "source": {
+        "source": "github",
+        "repo": "jehoshua02/claude-plugin-output-style-caveman"
+      }
+    }
+  ]
+}
