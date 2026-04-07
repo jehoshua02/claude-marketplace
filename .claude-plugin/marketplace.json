@@ -13,7 +13,7 @@
       }
     },
     {
-      "name": "claude-plugin-trail",
+      "name": "trail",
       "description": "Trail — a working log for projects, investigations, and ephemeral work",
       "source": {
         "source": "github",
