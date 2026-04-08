@@ -21,11 +21,11 @@
       }
     },
     {
-      "name": "tdd",
-      "description": "TDD red-green-refactor loop for Claude Code",
+      "name": "stout",
+      "description": "Stout plugin — commands by jehoshua02",
       "source": {
         "source": "github",
-        "repo": "jehoshua02/claude-plugin-tdd"
+        "repo": "jehoshua02/claude-plugin-stout"
       }
     }
   ]
