@@ -5,11 +5,11 @@
   },
   "plugins": [
     {
-      "name": "claude-plugin-output-style-caveman",
+      "name": "caveman",
       "description": "Caveman speak output style for Claude Code",
       "source": {
         "source": "github",
-        "repo": "jehoshua02/claude-plugin-output-style-caveman"
+        "repo": "jehoshua02/claude-plugin-caveman"
       }
     },
     {
