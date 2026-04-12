@@ -30,7 +30,7 @@
     },
     {
       "name": "frugal",
-      "description": "Cost efficiency rules for Claude Code — lean responses, smart model selection, subagent delegation",
+      "description": "Cost efficiency rules for Claude Code — lean responses, smart model selection, subagent delegation, context management",
       "source": {
         "source": "github",
         "repo": "jehoshua02/claude-plugin-frugal"
